@@ -1,12 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * 排序算法主类
- * 
- * some copy from eric
- * but hava my experience
- */
 class SortArray {
 
 	/*
